@@ -7,7 +7,10 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "cordova": "^11.0.0",
     "core-js": "^3.6.5",
+    "ionic": "^5.4.16",
+    "npm": "^8.4.1",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0"
   },
